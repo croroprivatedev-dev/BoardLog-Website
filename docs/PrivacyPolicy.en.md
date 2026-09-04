@@ -1,7 +1,7 @@
 # BoardLog Privacy Policy
 
 **Effective date:** September 1, 2026  
-**Last updated:** September 1, 2026
+**Last updated:** September 4, 2026
 
 BoardLog (the "App") is an iOS application for managing board game meetup records on your device. This Privacy Policy explains how information is handled in the App.
 
@@ -58,7 +58,7 @@ The following processing happens entirely on your device and is not sent to exte
 |------------|-------------|
 | Statistics | Meetup counts, play counts, photo counts, etc. |
 | Face detection | Detects face positions in photos to place stamps on share cards (Apple Vision framework) |
-| Premium status | Whether the premium plan is active (stored on device) |
+| Plan status | Whether the current plan is Free, Starter Version, or Premium (stored on device) |
 | Onboarding state | Whether the welcome flow has been shown |
 
 ### 2.4 Information the App Does Not Automatically Collect
@@ -79,7 +79,7 @@ Information obtained and handled by the App is used only for the following purpo
 1. **Providing App features** — Creating, editing, and displaying records; timeline; statistics; game library management
 2. **Sharing features** — Generating share card images; sharing via the system share sheet; saving to the photo library
 3. **Data migration and backup** — Export and import functionality
-4. **In-app purchases** — Purchasing, restoring, and managing premium plan access (via the App Store)
+4. **In-app purchases** — Purchasing, restoring, and managing access for paid plans such as Starter Version and Premium (via the App Store)
 5. **Support** — Responding to inquiries from users
 
 ---
@@ -124,7 +124,7 @@ When you use the features below, data leaves your device at your direction. You 
 
 | Name | Type | Purpose | Data transmission |
 |------|------|---------|-------------------|
-| Apple App Store / StoreKit | Payment | Premium plan purchase and restore | Apple processes payment information |
+| Apple App Store / StoreKit | Payment | Paid plan purchase and restore | Apple processes payment information |
 | Apple Vision | OS framework | On-device face detection for share cards | None |
 | ZIPFoundation | Open-source library | On-device export/import | None |
 
