@@ -1,10 +1,10 @@
 # Legal Notice (Specified Commercial Transactions Act)
 
-**Last updated:** September 2, 2026
+**Last updated:** September 4, 2026
 
-This notice is provided under Article 11 of Japan's Act on Specified Commercial Transactions regarding sales of the BoardLog paid plan (Premium).
+This notice is provided under Article 11 of Japan's Act on Specified Commercial Transactions regarding sales of BoardLog paid plans (Starter Version and Premium).
 
-Downloading the App and using basic features is free. The paid plan is a one-time, non-consumable in-app purchase through the App Store.
+Downloading the App and using basic features is free. Paid plans are one-time, non-consumable in-app purchases through the App Store.
 
 ---
 
@@ -22,11 +22,23 @@ Downloading the App and using basic features is free. The paid plan is a one-tim
 
 ## Price
 
+The following paid products may be offered. The product name and price shown on the App Store before purchase confirmation prevail (they may vary by country, region, and tax).
+
+| Product name | Summary | Price |
+|--------------|---------|-------|
+| BoardLog Starter Version (one-time purchase) | Raises the meetup registration limit to 20 | As displayed on each App Store |
+| BoardLog Premium (one-time purchase) | Unlimited meetup registration | As displayed on each App Store |
+| BoardLog Premium Upgrade (one-time purchase) | For Starter Version owners; migrates rights to Premium | As displayed on each App Store |
+
 | Item | Details |
 |------|---------|
-| Product name | BoardLog Premium (one-time purchase) |
-| Price | As displayed on each App Store (shown on the App Store before purchase is confirmed) |
 | Additional charges | None<br>*Internet connectivity, device costs, and related fees for download, updates, and purchase processing are borne by the user |
+
+Reference prices shown in Japanese yen (final payable amounts follow App Store display prices):
+
+- Starter Version: ¥300 (one-time)
+- Premium (direct purchase from Free): ¥980 (one-time)
+- Premium Upgrade (from Starter Version): ¥680 (one-time)
 
 ---
 
@@ -41,9 +53,9 @@ Downloading the App and using basic features is free. The paid plan is a one-tim
 
 ## Delivery Timing
 
-Paid plan features are available **immediately** after purchase is completed. No physical delivery is involved.
+Paid plan features for the purchased product are available **immediately** after purchase is completed. No physical delivery is involved.
 
-Premium status is stored on your device. When changing devices, use the in-app "Restore Purchases" feature or App Store purchase history restore procedures.
+Purchased plan status is stored on your device. When changing devices, use the in-app "Restore Purchases" feature or App Store purchase history restore procedures.
 
 ---
 
@@ -71,12 +83,15 @@ Premium status is stored on your device. When changing devices, use the in-app "
 
 ## Paid Plan Contents
 
-Purchasing Premium removes main free plan limits. Current contents:
+Current plan contents:
 
-| Item | Free plan | Paid plan (Premium) |
-|------|-----------|----------------------|
-| Meetup registration | Up to 5 | Unlimited |
-| Other basic features | Available | Available |
+| Item | Free plan | Starter Version | Premium |
+|------|-----------|-----------------|---------|
+| Meetup registration | Up to 5 | Up to 20 | Unlimited |
+| Other basic features | Available | Available | Available |
+
+- Free plan users may purchase Starter Version or Premium.
+- Starter Version owners may upgrade to Premium through the upgrade purchase.
 
 Details shown in the in-app purchase screen and App Store product description prevail. The Operator may change feature contents without notice.
 
@@ -93,7 +108,7 @@ Details shown in the in-app purchase screen and App Store product description pr
 
 ## Contact
 
-For questions about sales conditions, the paid plan, purchase, or restore:
+For questions about sales conditions, paid plans, purchase, or restore:
 
 **crorodevcontact@gmail.com**
 
