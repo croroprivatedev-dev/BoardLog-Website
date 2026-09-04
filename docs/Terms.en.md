@@ -1,7 +1,7 @@
 # BoardLog Terms of Service
 
 **Effective date:** September 2, 2026  
-**Last updated:** September 2, 2026
+**Last updated:** September 4, 2026
 
 These Terms of Service (the "Terms") govern your use of BoardLog (the "App"). By downloading, installing, or using the App, you agree to these Terms.
 
@@ -16,7 +16,9 @@ These Terms of Service (the "Terms") govern your use of BoardLog (the "App"). By
 | User | Anyone who uses the App |
 | Content | Records, text, images, and other data you register or store in the App |
 | Free plan | The range of App features available at no charge |
-| Paid plan (Premium) | Paid features available through an in-app purchase |
+| Paid plan | Paid features available through in-app purchase, including Starter Version and Premium |
+| Starter Version | A paid plan that raises the meetup registration limit through a one-time purchase |
+| Premium | A paid plan that removes the meetup registration limit through a one-time purchase |
 
 ---
 
@@ -53,7 +55,7 @@ The App stores data primarily on your device and does not send it to servers ope
 
 ---
 
-## 5. Free Plan and Paid Plan
+## 5. Free Plan and Paid Plans
 
 ### 5.1 Free Plan
 
@@ -61,15 +63,27 @@ The App stores data primarily on your device and does not send it to servers ope
 2. The free plan has limits, including a cap on the number of meetups you can register. The limit is 5 meetups.
 3. Free plan limits are shown in the App. The Operator may change the free plan scope without notice.
 
-### 5.2 Paid Plan (Premium)
+### 5.2 Starter Version
 
-1. The paid plan is a **one-time, non-consumable in-app purchase**. It is **not** a subscription.
-2. Purchasing the paid plan removes main free plan limits (such as the meetup cap) and allows unlimited record registration.
-3. Details, price, and conditions of the paid plan follow the in-app purchase screen and the App Store product description.
-4. Purchase, payment, and restore are handled through the Apple App Store. The Operator does not directly receive payment information such as credit card numbers.
-5. You can restore purchases through the in-app "Restore Purchases" feature or App Store procedures. Restoration may fail due to device or Apple ID changes.
-6. Refunds follow Apple Inc.'s refund policy and App Store rules. The Operator has no obligation to provide refunds beyond Apple's rules.
-7. Prices follow App Store display prices, which may vary by country, region, and tax. The Operator may change prices, but rights to an already purchased paid plan remain subject to these Terms and App Store rules.
+1. Starter Version is a **one-time, non-consumable in-app purchase**. It is **not** a subscription.
+2. Purchasing Starter Version raises the meetup registration limit to 20 meetups.
+3. Details, price, and conditions of Starter Version follow the in-app purchase screen and the App Store product description.
+
+### 5.3 Premium
+
+1. Premium is a **one-time, non-consumable in-app purchase**. It is **not** a subscription.
+2. Purchasing Premium removes the meetup registration limit and allows unlimited record registration.
+3. Free plan users may purchase Premium directly.
+4. Users who already own Starter Version may upgrade to Premium through the upgrade purchase shown in the App. After upgrade, rights are equivalent to Premium.
+5. Details, price, and conditions of Premium and the upgrade follow the in-app purchase screen and the App Store product description.
+
+### 5.4 Common Rules for Paid Plans
+
+1. Purchase, payment, and restore are handled through the Apple App Store. The Operator does not directly receive payment information such as credit card numbers.
+2. You can restore purchases through the in-app "Restore Purchases" feature or App Store procedures. Restoration may fail due to device or Apple ID changes.
+3. Refunds follow Apple Inc.'s refund policy and App Store rules. The Operator has no obligation to provide refunds beyond Apple's rules.
+4. Prices follow App Store display prices, which may vary by country, region, and tax. The Operator may change prices, but rights to an already purchased paid plan remain subject to these Terms and App Store rules.
+5. More than one paid product may be offered. Which product applies is determined by the in-app purchase screen and App Store display.
 
 For sales conditions, see [Legal Notice (Specified Commercial Transactions Act)](LegalNotice.en.md).
 
